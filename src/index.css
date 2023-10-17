@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-50;
+}
+
+@layer components {
+  .btn-outline {
+    @apply bg-white border border-blue-500 text-blue-500 px-3 py-2 hover:bg-blue-500 hover:text-white active:bg-blue-600;
+  }
+  .btn-blue {
+    @apply bg-blue-500 px-3 py-2  hover:bg-blue-600 active:bg-blue-700 text-white;
+  }
+  .btn-yellow {
+    @apply bg-yellow-500 px-3 py-2  hover:bg-yellow-600 active:bg-yellow-700 text-white;
+  }
+  .btn-white {
+    @apply bg-white px-3 py-2  hover:bg-gray-100 active:bg-gray-200;
+  }
+}
+
+@layer utilities {
+  .gradient-img-otherService {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.14) 0%, #012840 89.04%);
+  }
+  .gradient-img-about {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, #001520 100%);
+  }
+}

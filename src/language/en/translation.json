@@ -1,0 +1,163 @@
+{
+  "Home": {
+    "banner": {
+      "title": "Keep Growing With Forward Thinking With Us",
+      "descript1": "We are HiSocial Digital, Marketing and Creative Design in Yogyakarta, Indonesia. Let's create the best product experience with our experienced members.",
+      "descript2": "Helping you manage your marketing budget more effectively. We can put together a marketing plan that fits your budget and ensure efficient use of funds.",
+      "highlight-banner": "This is our HiSocial Digital.",
+      "highlight-1": "Succesfull Project",
+      "highlight-2": "Super Happy Client",
+      "highlight-3": "Year of Experience",
+      "started": "Get Started"
+    },
+    "our-work": {
+      "text-one": "We Create Impactful Experience Stories ",
+      "title-1": "Strategi Marketing",
+      "descript-1": "Custom digital marketing and creative strategies informed by strong judgment & your business deserves to get better than prepackaged strategies",
+      "title-2": "Branding Identity",
+      "descript-2": "See the progress we're making & what's driving results, at any time, we keep you informed transparently on a consistent basis and keep you updated.",
+      "title-3": "Breaktrough",
+      "descript-3": "Services that match your greatest ROI, moving in the same direction towards growth goals better than ever. And deliver modern, tangible breakthroughs."
+    },
+    "several-services": {
+      "title": "We Offer Several Service For You",
+      "descript": "We have outstanding experience across a wide range of sectors with work spanning geography, scale and scope. No challenge is too big or messy, familiar or unfamiliar, vast or special."
+    },
+    "other-service": {
+      "title": "Other Services That We’ve Made",
+      "descript": "We have extensive experience across a wide range of sectors with other work, including cashier systems and digital marketing learning.",
+      "other-service-1": "Sistem Toko (Sisco)",
+      "other-service-2": "Learning Digital Marketing",
+      "btn-text": "Learn More"
+    },
+    "our-project": {
+      "title": "Our Project Have Been Done",
+      "brand-puma": "Puma",
+      "brand-fruit": "Fruit & Saladies",
+      "brand-lotion": "Ordinary Skincare",
+      "puma": "Maximize Your Sport Performance & Stay Stylish w/ PUMA's Latest Collection. Free Shipping. Shop High Quality Shoes, Sports Gear & Accessories @PUMA Indonesia Official Online Store.",
+      "fruit": "In common language usage, fruit normally means the seed-associated fleshy structures (or produce) of plants that typically are sweet or sour and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries",
+      "lotion": "Natural Moisturizing Factors + Beta Glucan is a lightweight gel moisturizer designed to provide all-day hydration after just one application.* It is formulated with natural moisturizing factors,",
+      "text-button": "Explore More     +"
+    },
+    "testi": {
+      "title": "Our Partner's Experience",
+      "title-2": "Builds a Wider Area & Sales",
+      "testi-text": "Ever since I entrusted my promotional activities to HiScocial Digital, my sales are getting smoother. My convection business has become widely known by customers from various circles, this is beyond my expectations. May the blessings always be for HiScocial Digital.",
+      "job": "Creative Marketing at Puma Indonesia"
+    },
+    "pricing": {
+      "title": "Pricing & Plan for Everyone.",
+      "descript": "You can choose a package that suits your social media management needs, or you can contact them for other related services.",
+      "button-text": "Contact Admin",
+      "card-descript": "There are many variations of passages of Lorem Ipsum available,",
+      "list-service-pricing": {
+        "list-1": "Konten Feed & Story",
+        "list-2": "Reels / TikTok Video",
+        "list-3": "Dashboard Content",
+        "list-4": "Copy Writing & Hastag",
+        "list-5": "Monthly Report",
+        "list-6": "Boost Iklan Ads",
+        "list-7": "Konsultasi Design dan Marketing"
+      },
+      "hiBronze": {
+        "text": "The HiBronze package includes several benefits that you will get.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads"
+        }
+      },
+      "hiSilver": {
+        "text": "The HiSilver package includes several benefits that you will get.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads",
+          "additional-3": "WA Marketing"
+        }
+      },
+      "hiGold": {
+        "text": "The HiGold package includes several benefits that you will get.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads",
+          "additional-3": "WA Marketing",
+          "additional-4": "Shopee Marketing",
+          "additional-5": "Twitter Marketing"
+        }
+      },
+      "additional": "Additional"
+    },
+    "our-patner": {
+      "title": "Our Patner",
+      "text": "We have collaborated with many companies and educational institutions."
+    }
+  },
+  "Service": {
+    "banner": "Connect with Each Other with",
+    "banner-btn": {
+      "btn-text-1": "Join HiSocial Partner",
+      "btn-text-2": "Learn More",
+      "btn-text-3": "Improve Your Business With us"
+    },
+    "banner-card": {
+      "card-1": {
+        "text": "After receiving funding through the SawitPRO program, I was able to increase my yield by 50%.",
+        "name": "Ahmad Muzakhir",
+        "job": "Oil Palm Farmers"
+      },
+      "card-2": {
+        "text": "It was very informative and gave me more knowledge to improve product sales results from month to month.",
+        "name": "Moeluk Aminuddin",
+        "job": "CV. Kresna Jaya Santosa"
+      },
+      "card-3": {
+        "text": "With HiSocial Digital, it makes it easier for us to target marketing and reach more market areas.",
+        "name": "Adiyono Poetro",
+        "job": "PT Pratama Adiluhung"
+      },
+      "card-4": {
+        "text": "After joining Saw, it was very helpful because sales increased.",
+        "name": "Susono Pragiwarta",
+        "job": "PT. Tiki Jalur Nugraha Eka Kurir"
+      },
+      "card-5": {
+        "text": "Product Sales Increased"
+      }
+    },
+    "service-program": {
+      "title": "Service Program",
+      "list-program": {
+        "list-0": "UI/UX Design",
+        "list-1": "Social Media Management",
+        "list-2": "Branding Indentity Visual",
+        "list-3": "Logo & Branding Identity",
+        "list-4": "Website & System",
+        "list-5": "Digital Marketing Strategy"
+      },
+      "service-program-detail": "Many of our design projects are dedicated to a company or individual, by helping and providing needs for them makes us understand that a design has a sense so that users feel comfortable and interested in buying it."
+    },
+    "get-started": {
+      "text": "Confused about determining the program according to your company's needs?",
+      "btn-text": "Contact Admin"
+    }
+  },
+  "AboutUs": {
+    "banner": {
+      "title": "Do New Things and Develop With us.",
+      "detail": "All of our dedication is done with heart and research so that our partners achieve their company goals.",
+      "button": "Contact Us"
+    },
+    "vision": {
+      "title": "Vision",
+      "detail": "The development of digital technology and the internet is growing rapidly. Every company is required to adapt by digitizing their business. Through strong and suitable marketing and branding, sales will also experience rapid development."
+    },
+    "mision": {
+      "title": "Mision",
+      "detail": "When you work in an agency, you will meet many people from different backgrounds, positions, and companies. Of course, this is a great opportunity to build and expand your network. Where, you can work together as well as gain new knowledge from them."
+    },
+    "btn-read-more": "Read More",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "leads": "Meet Our Leaders",
+    "started": "Ready to get started?"
+  }
+}

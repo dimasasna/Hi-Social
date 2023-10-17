@@ -1,0 +1,163 @@
+{
+  "Home": {
+    "banner": {
+      "title": "Terus Tumbuh Dengan Pemikiran Maju Bersama Kami",
+      "descript1": "Kami Adalah HiSocial Digital, Pemasaran dan Desain Kreatif di Yogyakarta, Indonesia. Mari ciptakan pengalaman produk terbaik dengan anggota kami yang berpengalaman.",
+      "descript2": "Membantu Anda mengelola anggaran pemasaran Anda dengan lebih efektif. Kami dapat menyusun rencana pemasaran yang sesuai dengan anggaran Anda dan memastikan penggunaan dana yang efisien.",
+      "highlight-banner": "Ini adalah HiSocial Digital kami.",
+      "highlight-1": "Proyek Sukses",
+      "highlight-2": "Klien yang sangat senang",
+      "highlight-3": "Tahun Pengalaman",
+      "started": "Mulai"
+    },
+    "our-work": {
+      "text-one": "Kami Menciptakan Cerita Pengalaman yang Berdampak ",
+      "title-1": "Strategi Pemasaran",
+      "descript-1": "Strategi pemasaran digital dan kreatif khusus yang diinformasikan oleh penilaian yang kuat & bisnis Anda layak mendapatkan yang lebih baik daripada strategi yang sudah dikemas",
+      "title-2": "Identitas Merek",
+      "descript-2": "Lihat kemajuan yang kami buat & apa yang mendorong hasil, setiap saat, kami memberi Anda informasi secara transparan secara konsisten dan terus memberi Anda informasi terbaru.",
+      "title-3": "Terobosan baru",
+      "descript-3": "Layanan yang cocok  untuk ROI terbesar Anda, bergerak ke arah yang sama menuju sasaran pertumbuhan yang lebih baik dari sebelumnya. Serta memberikan terobosan yang modern dan nyata."
+    },
+    "several-services": {
+      "title": "Kami Menawarkan Beberapa Layanan Untuk Anda",
+      "descript": "Kami memiliki pengalaman yang luar biasa di berbagai sektor dengan pekerjaan yang mencakup geografi, skala, dan ruang lingkup. Tidak ada tantangan yang terlalu besar atau berantakan, familiar atau asing, luas atau khusus."
+    },
+    "other-service": {
+      "title": "Layanan Lain Yang Telah Kami Buat",
+      "descript": "Kami memiliki pengalaman yang luas di berbagai sektor dengan pekerjaan lain, termasuk sistem kasir dan pembelajaran pemasaran digital.",
+      "other-service-1": "Sistem Toko (Sisco)",
+      "other-service-2": "Mempelajari Pemasaran Digital",
+      "btn-text": "Pelajari Lebih Lanjut"
+    },
+    "our-project": {
+      "title": "Proyek Yang Sudah kami Selesaikan",
+      "brand-puma": "Puma",
+      "brand-fruit": "Buah & Salad",
+      "brand-lotion": "Perawatan Kulit Biasa",
+      "puma": "Maksimalkan Performa Olahraga Anda & Tetap Bergaya dengan Koleksi Terbaru PUMA. Gratis Ongkos Kirim. Belanja Sepatu, Perlengkapan & Aksesoris Olahraga Berkualitas Tinggi @PUMA Indonesia Official Online Store.",
+      "fruit": "Dalam penggunaan bahasa yang umum, buah biasanya berarti struktur berdaging yang terkait dengan biji (atau hasil) tanaman yang biasanya manis atau asam dan dapat dimakan dalam keadaan mentah, seperti apel, pisang, anggur, lemon, jeruk, dan stroberi",
+      "lotion": "Faktor Pelembab Alami + Beta Glucan adalah pelembab gel ringan yang dirancang untuk memberikan hidrasi sepanjang hari hanya dalam satu kali pemakaian, yang diformulasikan dengan faktor pelembab alami,",
+      "text-button": "Jelajahi Lebih Lanjut      +"
+    },
+    "testi": {
+      "title": "Pengalaman Mitra Kami",
+      "title-2": "Membangun Area & Penjualan yang Lebih Luas",
+      "testi-text": "Sejak saya mempercayakan kegiatan promosi saya kepada HiScocial Digital, penjualan saya semakin lancar. Usaha konveksi saya menjadi dikenal luas oleh pelanggan dari berbagai kalangan, ini diluar dugaan saya. Semoga berkah selalu untuk HiScocial Digital.",
+      "job": "Pemasaran Kreatif di Puma Indonesia"
+    },
+    "pricing": {
+      "title": "Harga & Paket untuk Semua Orang.",
+      "descript": "Anda dapat memilih paket yang sesuai dengan kebutuhan manajemen media sosial Anda, atau Anda dapat menghubungi mereka untuk layanan terkait lainnya.",
+      "button-text": "Hubungi Admin",
+      "card-descript": "Ada banyak variasi bagian dari Lorem Ipsum yang tersedia,",
+      "list-service-pricing": {
+        "list-1": "Konten Feed & Story",
+        "list-2": "Reels / TikTok Video",
+        "list-3": "Dashboard Content",
+        "list-4": "Copy Writing & Hastag",
+        "list-5": "Monthly Report",
+        "list-6": "Boost Iklan Ads",
+        "list-7": "Konsultasi Design dan Marketing"
+      },
+      "hiBronze": {
+        "text": "Paket HiBronze mencakup beberapa manfaat yang akan Anda dapatkan.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads"
+        }
+      },
+      "hiSilver": {
+        "text": "Paket HiSilver mencakup beberapa manfaat yang akan Anda dapatkan.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads",
+          "additional-3": "WA Marketing"
+        }
+      },
+      "hiGold": {
+        "text": "Paket HiGold mencakup beberapa manfaat yang akan Anda dapatkan.",
+        "additional": {
+          "additional-1": "Facebook Ads",
+          "additional-2": "Instagram Ads",
+          "additional-3": "WA Marketing",
+          "additional-4": "Shopee Marketing",
+          "additional-5": "Twitter Marketing"
+        }
+      },
+      "additional": "Tambahan"
+    },
+    "our-patner": {
+      "title": "Mitra Kami",
+      "text": "Kami Telah Banyak Berkolaborasi Dengan  Perusahaan Dan Instansi Pendidikan."
+    }
+  },
+  "Service": {
+    "banner": "Terhubung Satu Sama Lain Bersama",
+    "banner-btn": {
+      "btn-text-1": "Bergabung Mitra HiSocial",
+      "btn-text-2": "Pelajari Lebih Lanjut",
+      "btn-text-3": "Tingkatkan Bisnis Anda Bersama Kami"
+    },
+    "banner-card": {
+      "card-1": {
+        "text": "Setelah mendapatkan pendanaan melalui program SawitPRO, saya bisa meningkatkan hasil panen 50%",
+        "name": "Ahmad Muzakhir",
+        "job": "Petani Sawit"
+      },
+      "card-2": {
+        "text": "Sangat informatif dan memberikan saya pengetahuan lebih untuk meningkatkan hasil penjualan produk dari bulan ke bulan.",
+        "name": "Moeluk Aminuddin",
+        "job": "CV. Kresna Jaya Santosa"
+      },
+      "card-3": {
+        "text": "Dengan adanya HiSocial Digital , itu sangat memudahkan kami dalam target pemasaran dan mengjangakau area market yang lebih banyak lagi.",
+        "name": "Adiyono Poetro",
+        "job": "PT Pratama Adiluhung"
+      },
+      "card-4": {
+        "text": "Setalah bergabung bersama Saw sangat terbantu karena penjualan meningkat.",
+        "name": "Susono Pragiwarta",
+        "job": "PT. Tiki Jalur Nugraha Eka Kurir"
+      },
+      "card-5": {
+        "text": "Penjualan Produk Meningkat"
+      }
+    },
+    "service-program": {
+      "title": "Program Layanan",
+      "list-program": {
+        "list-0": "Desain UI/UX",
+        "list-1": "Manajemen Media Sosial",
+        "list-2": "Indentitas Branding Visual",
+        "list-3": "Logo & Identitas Merek",
+        "list-4": "Situs web & Sistem",
+        "list-5": "Strategi Pemasaran Digital"
+      },
+      "service-program-detail": "Banyak project design yang kami dedikasikan untuk sebuah perusahaan atau perorangan, dengan membantu dan memberikan kebutuhan bagi meraka membuat kami mengerti bahwa sebuah design memliki rasa agar pengguna merasa nyaman dan tertarik untuk membelinya."
+    },
+    "get-started": {
+      "text": "Bingung menentukan program yang sesuai dengan kebutuhan perusahaan Anda?",
+      "btn-text": "Hubungi Admin"
+    }
+  },
+  "AboutUs": {
+    "banner": {
+      "title": "Lakukan Hal Baru dan Berkembang Bersama Kami.",
+      "detail": "Semua dedikasi kami dilakuakan dengan hati dan riset agar mitra kami mencapai tujuan dari perusahaannya",
+      "button": "Hubungi Kami"
+    },
+    "vision": {
+      "title": "Visi",
+      "detail": "Perkembangan teknologi digital dan internet sangat berkembang secara pesat. Setiap perusahaan dituntut untuk bisa beradaptasi dengan mendigitalisasikan bisnis mereka. Lewat marketing maupun branding yang kuat dan cocok, maka penjualan juga akan mengalami perkembangan secara pesat pula."
+    },
+    "mision": {
+      "title": "Misi",
+      "detail": "Bila Anda bekerja di agency, Anda akan bertemu dengan banyak orang yang berasal dari latar belakang, posisi, sampai perusahaan yang berbeda-beda. Tentunya, hal ini menjadi kesempatan yang sangat baik untuk membangun dan memperluas networking Anda. Dimana, Anda dapat bekerja sama sekaligus mendapatkan ilmu baru dari mereka."
+    },
+    "btn-read-more": "Baca Selengkapnya",
+    "text": "Lorem Ipsum hanyalah teks tiruan dari industri percetakan dan penyusunan huruf.",
+    "leads": "Temui Para Pemimpin Kami",
+    "started": "Siap untuk memulai?"
+  }
+}
