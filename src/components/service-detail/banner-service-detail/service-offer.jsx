@@ -1,4 +1,4 @@
-import { imgOffer1 } from "../../../assets/img"
+import { imgOffer } from "../../../assets/img"
 
 const ServiceOffer = () => {
     return (
@@ -10,7 +10,7 @@ const ServiceOffer = () => {
 
             <div className="mt-12 grid grid-cols-2 gap-4">
                 <div className="ml-24">
-                    <img src={imgOffer1} alt="offer 1" className="object-cover" />
+                    <img src={imgOffer} alt="offer 1" className="object-cover" />
                 </div>
                 <div className=" h-[500] grid grid-rows-3 gap-4">
                     <div className="h-[206px] w-[622px] rounded-[20px]  shadow-2xl ">

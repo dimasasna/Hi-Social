@@ -30,7 +30,7 @@ import logoColaborate1 from "./colaborate1.png"
 import logoColaborate2 from "./colaborate2.png"
 import logoColaborate3 from "./colaborate3.png"
 import logoColaborate4 from "./colaborate4.png"
-import imgOffer1 from "./image.png"
+import imgOffer from "./image.png"
 import imgOffer2 from "./offer2.png"
 import imgOffer3 from "./offer3.png"
 import imgOffer4 from "./offer4.png"
@@ -69,7 +69,7 @@ export {
   logoColaborate2,
   logoColaborate3,
   logoColaborate4,
-  imgOffer1,
+  imgOffer,
   imgOffer2,
   imgOffer3,
   imgOffer4,
