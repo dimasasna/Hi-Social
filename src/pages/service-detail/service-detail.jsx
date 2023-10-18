@@ -3,7 +3,7 @@ import { BannerServiceDetail, ServiceColaborate, ServiceOffer,  ServiceProject, 
 const ServiceDetail = ({t}) => {
     return (
 
-        <section >
+        <section className="max-w-[1920px] sm:max-w-full md:max-w-full lg:max-w-full xl:max-w-[1920px] mx-auto">
             <BannerServiceDetail t={t}/>
             <ServiceColaborate t={t}/>
             <ServiceOffer />

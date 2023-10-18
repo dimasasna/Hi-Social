@@ -13,7 +13,11 @@ const ServiceProject = () => {
                     </div>
                 </div>
                     <div className="h-[700px] w-full  mt-10 flex flex-wrap justify-center">
-                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
+                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl">
+                            <div>
+                                <img src="" alt="" />
+                            </div>
+                        </div>
                         <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
                         <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
                         <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
