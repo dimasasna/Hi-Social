@@ -1,11 +1,14 @@
 
-import { BannerServiceDetail, ServiceColaborate } from "../../components/service-detail/banner-service-detail";
+import { BannerServiceDetail, ServiceColaborate, ServiceOffer,  ServiceProject,  ServiceUs } from "../../components/service-detail/banner-service-detail";
 const ServiceDetail = ({t}) => {
     return (
 
         <section >
             <BannerServiceDetail t={t}/>
             <ServiceColaborate t={t}/>
+            <ServiceOffer />
+            <ServiceUs />
+            <ServiceProject />
         </section>
     );
 }
