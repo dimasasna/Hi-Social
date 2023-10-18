@@ -10,24 +10,24 @@ const ServiceUs = () => {
                 </div>
 
                 <div className="grid grid-cols-3 gap-0 mt-1 ml-7 mr-16">
-                    <div className="m-12 h-[226px] w-[335px] border rounded-[20px] bg-white">
+                    <div className="m-12 h-[226px] w-[335px] border rounded-[20px] bg-white shadow-xl">
                         <h1 className="m-4">Icons</h1>
                         <h1 className="m-4 font-bold text-[#008FFF] text-[20px]" >Experience</h1>
                         <p className="m-4 leading-normal font-light text-[18px]">With years of experience in branding, we understand what it takes to create a strong brand presence.</p>
                     </div>
-                    <div className="m-12 h-[226px] w-[335px] border rounded-[20px] bg-white">
+                    <div className="m-12 h-[226px] w-[335px] border rounded-[20px] bg-white shadow-xl">
                         <h1 className="m-4">Icons</h1>
                         <h1 className="m-4 font-bold text-[#008FFF] text-[20px]" >Creativity</h1>
                         <p className="m-4 leading-normal font-light text-[18px]">Our designers are passionate about creativity and innovation, ensuring your brand stands out in a crowded market.</p>
                     </div>
-                    <div className="m-12 h-[226px] w-[335px] border rounded-[20px] bg-white">
+                    <div className="m-12 h-[226px] w-[335px] border rounded-[20px] bg-white shadow-xl">
                         <h1 className="m-4">Icons</h1>
                         <h1 className="m-4 font-bold text-[#008FFF] text-[20px]" >Client Success</h1>
                         <p className="m-4 leading-normal font-light text-[18px]">We measure our success by the success of our clients. Check out our portfolio to see the brands weve transformed.</p>
                     </div>
                 </div>
 
-                <div className="h-[131px] w-[580px] border rounded-[20px] bg-white mx-auto mb-24">
+                <div className="h-[131px] w-[580px] border rounded-[20px] bg-white mx-auto mb-24 shadow-xl">
                     <div className="grid grid-cols-3  gap-2">
                         <div className="flex justify-center col-span-2 m-4 border-r-2 ">
                             <img src={profilUs} alt="" />
