@@ -1,5 +1,6 @@
 
 import { BannerServiceDetail, ServiceColaborate, ServiceOffer,  ServiceProject,  ServiceUs } from "../../components/service-detail/banner-service-detail";
+import ServicePrice from "../../components/service-detail/banner-service-detail/service-prices";
 const ServiceDetail = ({t}) => {
     return (
 
@@ -9,6 +10,7 @@ const ServiceDetail = ({t}) => {
             <ServiceOffer />
             <ServiceUs />
             <ServiceProject />
+            <ServicePrice />
         </section>
     );
 }

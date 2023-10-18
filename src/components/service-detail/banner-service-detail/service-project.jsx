@@ -1,7 +1,9 @@
+import { serviceProject1, serviceProject2, serviceProject3, serviceProject4, serviceProject5 } from "../../../assets/img"
+
 const ServiceProject = () => {
     return (
-        <section className="m-12">
-            <div className="m-20">
+        <section className="m-32">
+            <div className="">
                 <div className="grid grid-cols-2">
                     <div className="">
                         <h1 className="text-[50px] font-bold"><span className="text-[#008FFF]">Our Project</span> Have Done</h1>
@@ -13,15 +15,46 @@ const ServiceProject = () => {
                     </div>
                 </div>
                     <div className="h-[700px] w-full  mt-10 flex flex-wrap justify-center">
-                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl">
+                        <div className="m-4 w-[387px] h-[327px] bg-white rounded-[20px] shadow-xl">
                             <div>
-                                <img src="" alt="" />
+                                <img src={serviceProject1} alt="Service Project 1" />
+                            </div>
+                            <div className="flex justify-end h-12">
+                                <h1 className="font-bold text-[20px] mr-4">Flower Farm</h1>
                             </div>
                         </div>
-                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
-                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
-                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
-                        <div className="m-4 w-[387px] h-[307px] bg-white rounded-[20px] shadow-xl"></div>
+                        <div className="m-4 w-[387px] h-[327px] bg-white rounded-[20px] shadow-xl">
+                            <div>
+                                <img src={serviceProject2} alt="Service Project 2" />
+                            </div>
+                            <div className="flex justify-end h-12">
+                                <h1 className="font-bold text-[20px] mr-4">Flower Farm</h1>
+                            </div>
+                        </div>
+                        <div className="m-4 w-[387px] h-[327px] bg-white rounded-[20px] shadow-xl">
+                        <div>
+                                <img src={serviceProject3} alt="Service Project 3" />
+                            </div>
+                            <div className="flex justify-end h-12">
+                                <h1 className="font-bold text-[20px] mr-4">Flower Farm</h1>
+                            </div>
+                        </div>
+                        <div className="m-4 w-[387px] h-[327px] bg-white rounded-[20px] shadow-xl">
+                        <div>
+                                <img src={serviceProject4} alt="Service Project 4" />
+                            </div>
+                            <div className="flex justify-end h-12">
+                                <h1 className="font-bold text-[20px] mr-4">Flower Farm</h1>
+                            </div>
+                        </div>
+                        <div className="m-4 w-[387px] h-[327px] bg-white rounded-[20px] shadow-xl">
+                        <div>
+                                <img src={serviceProject5} alt="Service Project 5" />
+                            </div>
+                            <div className="flex justify-end h-12">
+                                <h1 className="font-bold text-[20px] mr-4">Flower Farm</h1>
+                            </div>
+                        </div>
                     </div>
             </div>
         </section>

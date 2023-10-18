@@ -35,6 +35,11 @@ import imgOffer2 from "./offer2.png"
 import imgOffer3 from "./offer3.png"
 import imgOffer4 from "./offer4.png"
 import profilUs from "./profil-us.png"
+import serviceProject1 from "./service-project1.png"
+import serviceProject2 from "./service-project2.png"
+import serviceProject3 from "./service-project3.png"
+import serviceProject4 from "./service-project4.png"
+import serviceProject5 from "./service-project5.png"
 
 export {
   logo,
@@ -73,5 +78,10 @@ export {
   imgOffer2,
   imgOffer3,
   imgOffer4,
-  profilUs
+  profilUs,
+  serviceProject1,
+  serviceProject2,
+  serviceProject3,
+  serviceProject4,
+  serviceProject5,
 };
