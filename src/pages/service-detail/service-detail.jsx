@@ -1,6 +1,6 @@
 
-import { BannerServiceDetail, ServiceColaborate, ServiceOffer,  ServiceProject,  ServiceUs } from "../../components/service-detail/banner-service-detail";
-import ServicePrice from "../../components/service-detail/banner-service-detail/service-prices";
+import { BannerServiceDetail, ServiceColaborate, ServiceFooter, ServiceOffer,  ServiceProject,  ServiceTesti,  ServiceTransform,  ServiceUs } from "../../components/service-detail/branding-identity-visual";
+import ServicePrice from "../../components/service-detail/branding-identity-visual/service-prices";
 const ServiceDetail = ({t}) => {
     return (
 
@@ -11,6 +11,9 @@ const ServiceDetail = ({t}) => {
             <ServiceUs />
             <ServiceProject />
             <ServicePrice />
+            <ServiceTesti/>
+            <ServiceTransform/>
+            <ServiceFooter/>
         </section>
     );
 }

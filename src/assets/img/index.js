@@ -40,6 +40,10 @@ import serviceProject2 from "./service-project2.png"
 import serviceProject3 from "./service-project3.png"
 import serviceProject4 from "./service-project4.png"
 import serviceProject5 from "./service-project5.png"
+import serviceTestiProfil from "./testi-profil.png"
+import bgServiceFooter from "./BG.png"
+import logoOnly from "./HiSocial.png"
+import logo1 from "./logo1.png"
 
 export {
   logo,
@@ -84,4 +88,8 @@ export {
   serviceProject3,
   serviceProject4,
   serviceProject5,
+  serviceTestiProfil,
+  bgServiceFooter,
+  logoOnly,
+  logo1
 };
