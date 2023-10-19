@@ -45,48 +45,48 @@ const ServicePrice = () => {
                         <div className="table-row ">
                             <div className="table-cell">Content Feed And Story</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Reels & Tiktok Videos</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Dashboard Content</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Copywriting & Hastag</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Monthly Report & Consultation</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Boost Marketing Advertisement</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Free Company Website / Personal</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
                             <div className="table-cell">Digital Marketing Learning Video</div>
-                            <div className="table-cell text-center border-b-2 text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">60</div>
                             <div className="table-cell text-center text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
