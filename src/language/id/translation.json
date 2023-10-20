@@ -162,13 +162,45 @@
   },
   "ServiceDetail": {
     "banner": {
-      "title": "Meningkatkan Merek Anda dengan Layanan Visual Identitas Brand Ahli Kami",
+      "title1": "Meningkatkan Merek Anda dengan Layanan ",
+      "title2": "Visual Identitas Brand Ahli Kami",
       "detail": "Kami tahu bahwa identitas merek yang kuat melampaui aspek estetika; itu adalah aset strategis yang mendefinisikan bisnis Anda, berbicara kepada audiens Anda, dan membuat Anda berbeda di pasar yang ramai. Kami di sini untuk menjadi mitra Anda dan menghidupkan merek Anda.",
-      "button": "Mulai"
+      "button": "Ayo Mulai"
     },
     "collaborate": {
-      "detail" : "Kami Telah Bekerja Sama Dengan Perusahaan-Perusahaan dan Lembaga Pendidikan."
+      "detail": "Kami Telah Bekerja Sama Dengan Perusahaan-Perusahaan dan Lembaga Pendidikan."
+    },
+    "offer": {
+      "title1": "Apa Yang Kami ",
+      "title2": "Tawarkan?",
+      "detail": "Kami menawarkan solusi desain kreatif dan membangun branding untuk perusahaan klien kami, termasuk Logo, Strategi Branding, dan Identitas Visual.",
+      "button": "Pelajari Lengkap",
+      "brand": {
+        "title1": "Kustom Identitas Visual",
+        "title2": "Grafis yang Menarik Perhatian",
+        "title3": "Transformasi Brand",
+        "detail1": "Kami menciptakan elemen visual yang unik, mulai dari logo dan palet warna hingga tipografi dan gambar, yang disesuaikan dengan kepribadian dan pesan merek Anda.",
+        "detail2": "Tim desainer berbakat kami akan menciptakan visual yang memukau yang akan memikat audiens Anda dan memperkuat cerita merek Anda.",
+        "detail3": "Layanan Identitas Visual Merek kami akan memberdayakan merek Anda untuk melayang tinggi dan meninggalkan tanda yang tak terhapuskan."
+      }
+    },
+    "workwithus": {
+      "title1": "Mengapa ",
+      "title2": "Bekerja Bersama Kami?",
+      "detail": "Kami telah bekerjasama dengan berbagai pengusaha sukses dalam membangun branding bersama para profesional kami.",
+      "card": {
+        "title1": "Pengalaman",
+        "title2": "Kreativitas",
+        "title3": "Keberhasilan Klien",
+        "detail1": "Dengan pengalaman bertahun-tahun di bidang branding, kami memahami apa yang diperlukan untuk menciptakan kehadiran merek yang kuat.",
+        "detail2": "Desainer kami sangat antusias tentang kreativitas dan inovasi, memastikan bahwa merek Anda menonjol di pasar yang ramai.",
+        "detail3": "Kami mengukur keberhasilan kami berdasarkan keberhasilan klien kami. Lihat portofolio kami."
+      },
+      "foot": "Profesional Kami"
+    },
+    "project": {
+      "title1": "Projek Yang ",
+      "title2": "Kami Selesaikan"
     }
-    
   }
 }

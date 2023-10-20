@@ -1,12 +1,12 @@
 import { serviceProject1, serviceProject2, serviceProject3, serviceProject4, serviceProject5 } from "../../../assets/img"
 
-const ServiceProject = () => {
+const ServiceProject = ({t}) => {
     return (
         <section className="m-32">
             <div className="">
                 <div className="grid grid-cols-2 max-w-[1230px] mx-auto">
                     <div className="">
-                        <h1 className="text-[50px] font-bold"><span className="text-[#008FFF]">Our Project</span> Have Done</h1>
+                        <h1 className="text-[42px] font-bold"><span className="text-[#008FFF]">{t("ServiceDetail.project.title1")}</span>{t("ServiceDetail.project.title2")}</h1>
                     </div>
                     <div className="flex justify-end items-center">
                         <button className=" m-2 w-[120px] btn-blue shadow-3xl rounded-full shadow-blue-400 ">Logo Design</button>

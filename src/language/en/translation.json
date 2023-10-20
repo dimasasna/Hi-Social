@@ -162,12 +162,45 @@
   },
   "ServiceDetail": {
     "banner": {
-      "title": "Elevate Your Brand With Our Expert Branding Identity Visual Service",
+      "title1": "Elevate Your Brand With Our Expert ",
+      "title2" : "Branding Identity Visual Service",
       "detail": "we know that a powerful brand identity goes beyond aesthetics; its a strategic asset that defines your business, speaks to your audience, and sets you apart in a crowded market. Were here to partner with you and bring your brand to life.",
       "button": "Get Started"
     },
     "collaborate": {
       "detail" : "We Have Collaborated With Companies And Educational Agencies."
+    },
+    "offer": {
+      "title1": "What We ",
+      "title2": "Offer?",
+      "detail": "We Offer creative design solutions and build branding for our client companies including Logo, branding Strategy and Visual Identity.",
+      "button": "Learn More",
+      "brand":{
+        "title1": "Custom Visual Identity",
+        "title2": "Eye-Catching Graphics",
+        "title3": "Brand Transformation",
+        "detail1": "We craft unique visual elements, from logos and color palettes to typography and imagery, tailored to your brands personality and message.",
+        "detail2": "Our team of talented designers will create stunning visuals that captivate your audience and reinforce your brands story.",
+        "detail3": "Our Branding Identity Visual Service will empower your brand to soar and leave an indelible mark."
+      }
+    },
+    "workwithus":{
+      "title1" : "Why ",
+      "title2" : "Work With Us?",
+      "detail" : "We have collaborated with various successful businessmen in building branding with our professionals.",
+      "card": {
+        "title1": "Experience",
+        "title2": "Creativity",
+        "title3": "Client Success",
+        "detail1": "With years of experience in branding, we understand what it takes to create a strong brand presence.",
+        "detail2": "Our designers are passionate about creativity and innovation, ensuring your brand stands out in a crowded market.",
+        "detail3": "We measure our success by the success of our clients. Check out our portfolio to see the brands weve transformed."
+      },
+      "foot": "Meet Our Professional"
+    },
+    "project": {
+      "title1": "Our Project ",
+      "title2": "Have Done"
     }
     
   }

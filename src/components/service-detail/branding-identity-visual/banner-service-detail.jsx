@@ -5,7 +5,7 @@ const BannerServiceDetail = ({t}) => {
             <img className="w-full h-full absolute" src={serviceDetail1} alt="Banner Service Detail" />
             <div className="relative z-20 grid grid-cols-2 mt-[100px] gap-5   max-w-[1230px] mx-auto mb-10">
                 <div className="w-full h-full ">
-                    <h1 className="text-[42px] font-bold text-[#004073]">{t("ServiceDetail.banner.title")}</h1>
+                    <h1 className="text-[42px] font-bold text-[#004073]">{t("ServiceDetail.banner.title1")}<span className="text-[#008FFF]">{t("ServiceDetail.banner.title2")}</span></h1>
                     <p className="leading-loose mt-4 text-[20px]">{t("ServiceDetail.banner.detail")}</p>
                     <button className="mt-10 btn-blue shadow-3xl rounded-xl shadow-blue-400 lg:h-14 lg:w-72">{t("ServiceDetail.banner.button")}</button>
                 </div>
