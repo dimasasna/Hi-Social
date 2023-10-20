@@ -159,5 +159,16 @@
     "text": "Lorem Ipsum hanyalah teks tiruan dari industri percetakan dan penyusunan huruf.",
     "leads": "Temui Para Pemimpin Kami",
     "started": "Siap untuk memulai?"
+  },
+  "ServiceDetail": {
+    "banner": {
+      "title": "Meningkatkan Merek Anda dengan Layanan Visual Identitas Brand Ahli Kami",
+      "detail": "Kami tahu bahwa identitas merek yang kuat melampaui aspek estetika; itu adalah aset strategis yang mendefinisikan bisnis Anda, berbicara kepada audiens Anda, dan membuat Anda berbeda di pasar yang ramai. Kami di sini untuk menjadi mitra Anda dan menghidupkan merek Anda.",
+      "button": "Mulai"
+    },
+    "collaborate": {
+      "detail" : "Kami Telah Bekerja Sama Dengan Perusahaan-Perusahaan dan Lembaga Pendidikan."
+    }
+    
   }
 }

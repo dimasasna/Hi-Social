@@ -159,5 +159,16 @@
     "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     "leads": "Meet Our Leaders",
     "started": "Ready to get started?"
+  },
+  "ServiceDetail": {
+    "banner": {
+      "title": "Elevate Your Brand With Our Expert Branding Identity Visual Service",
+      "detail": "we know that a powerful brand identity goes beyond aesthetics; its a strategic asset that defines your business, speaks to your audience, and sets you apart in a crowded market. Were here to partner with you and bring your brand to life.",
+      "button": "Get Started"
+    },
+    "collaborate": {
+      "detail" : "We Have Collaborated With Companies And Educational Agencies."
+    }
+    
   }
 }

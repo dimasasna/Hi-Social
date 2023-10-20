@@ -4,7 +4,7 @@ const ServiceProject = () => {
     return (
         <section className="m-32">
             <div className="">
-                <div className="grid grid-cols-2">
+                <div className="grid grid-cols-2 max-w-[1230px] mx-auto">
                     <div className="">
                         <h1 className="text-[50px] font-bold"><span className="text-[#008FFF]">Our Project</span> Have Done</h1>
                     </div>

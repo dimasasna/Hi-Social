@@ -5,7 +5,7 @@ import { logo1 } from "../../../assets/img"
 const ServiceFooter = () => {
     return (
         <section className="mx-32 mt-24 mb-12">
-            <div className="w-full h-full">
+            <div className="w-full h-full  max-w-[1230px] mx-auto">
                 <div className="w-full bg-[#2563EB] text-white h-[286px] rounded-[20px] flex flex-col items-center justify-center flex-wrap">
                     <h1 className=" text-[42px]  font-semibold">Subscribe to our newslater</h1>
                     <div className="flex flex-row mt-8 gap-4 flex-wrap">
@@ -20,7 +20,7 @@ const ServiceFooter = () => {
                         <div className="flex flex-col ">
                             <div className="w-full h-full">
                                 <img src={logo1} alt="" />
-                                <h1 className="text-[20px] font-normal mt-12">HiSocial Digital gives you ease in learning and improving your skills to become a professional.</h1> 
+                                <h1 className="text-[18px] font-normal mt-12">HiSocial Digital gives you ease in learning and improving your skills to become a professional.</h1> 
                             </div>
                             <div className="flex mt-12 gap-2">
                                 <div className="w-[40px] h-[40px] border border-black rounded-full"></div>
