@@ -1,26 +1,26 @@
 const ServicePrice = () => {
     return (
-        <section className="m-32 ">
-            <div className="h-40 text-center w-[800px] mx-auto">
-                <h1 className=" text-[48px] font-bold">Design<span className="text-[#008FFF]"> Prices</span></h1>
-                <p className="leading-loose font-light mt-2 text-[20px]">Professional and best Logo and Branding Identity Service Packages at the lowest costs.</p>
+        <section className="my-28 h-full max-w-[1230px] mx-auto">
+            <div className="h-full text-center max-w-full mx-auto my-8  px-4">
+                <h1 className=" text-[38px] md:text-[48px] font-bold">Design<span className="text-[#008FFF]"> Prices</span></h1>
+                <p className="px-2 leading-loose font-light mt-2 text-[20px] md:text-[22px]">Professional and best Logo and Branding Identity Service Packages at the lowest costs.</p>
             </div>
 
-            <div className="w-full h-full pb-12 bg-white shadow-xl rounded-[20px] max-w-[1230px] mx-auto">
-                <div className="flex flex-wrap justify-center">
-                    <div className="h-[371px] w-[400px] rounded-b-[20px]text-center items-center justify-center flex flex-col p-12">
+            <div className="max-w-[550px] md:max-w-full h-full pb-12 bg-white shadow-xl rounded-[20px] lg:mx-auto mx-4">
+                <div className="flex flex-row flex-wrap justify-center">
+                    <div className="h-[371px] md:w-[400px] w-[600px] rounded-b-[20px]text-center items-center justify-center flex flex-col p-12">
                         <h1 className="text-[32px] font-bold text-[#008FFF]">HiBronze</h1>
                         <h2 className="text-[36px] font-bold">IDR 1.500.000</h2>
                         <p className="text-[16px] mb-8">/ Month</p>
                         <button className=" m-2 w-full btn-white border border-blue-500  shadow-3xl rounded-full text-[#008FFF] shadow-blue-400 ">Get Started Now</button>
                     </div>
-                    <div className="h-[371px] w-[400px] rounded-b-[20px] bg-[#008FFF] text-center items-center justify-center flex flex-col p-12 text-white">
+                    <div className="h-[371px] md:w-[400px] w-[600px] rounded-b-[20px] bg-[#008FFF] text-center items-center justify-center flex flex-col p-12 text-white">
                         <h1 className="text-[32px] font-bold ">HiSilver</h1>
                         <h2 className="text-[36px] font-bold">IDR 1.500.000</h2>
                         <p className="text-[16px] mb-8">/ Month</p>
                         <button className=" m-2 w-full btn-white bg-[#EDC700]  shadow-3xl rounded-full text-black shadow-blue-400 ">Get Started Now</button>
                     </div>
-                    <div className="h-[371px] w-[400px] rounded-b-[20px]text-center items-center justify-center flex flex-col p-12">
+                    <div className="h-[371px] md:w-[400px] w-[600px] rounded-b-[20px]text-center items-center justify-center flex flex-col p-12">
                         <h1 className="text-[32px] font-bold text-[#008FFF]">HiGold</h1>
                         <h2 className="text-[36px] font-bold">IDR 1.500.000</h2>
                         <p className="text-[16px] mb-8">/ Month</p>
@@ -29,7 +29,7 @@ const ServicePrice = () => {
 
                 </div>
 
-                <div className="table w-full h-[460px] mt-10 px-12 pt-12">
+                <div className=" w-full h-[460px] mt-10 px-12 pt-12 hidden lg:table">
                     <div className="table-header-group mb-12">
                         <div className="table-row font-bold">
                             <div className="table-cell text-left w-[500px] m-12 text-2xl">Benefits</div>

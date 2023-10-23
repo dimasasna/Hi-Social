@@ -15,7 +15,7 @@ const Navbar = ({ id, en }) => {
 
   return (
     <div className="flex justify-between lg:justify-around py-3 shadow-xl items-center fixed w-full top-0 bg-white z-[999999] font-plus-jakarta-sans">
-      <div className="h-full w-full flex justify-between max-w-[1360px] mx-auto pr-7">
+      <div className="h-full w-full flex justify-between max-w-[1360px] mx-auto lg:pr-7">
         <img src={logo} className="cursor-pointer ms-4 lg:ms-16" />
         <div className="me-10 text-2xl border-2 border-black p-1 rounded hover:bg-gray-300 lg:opacity-0 cursor-pointer" onClick={() => handleOpen()}>
           {open === false ? <AiOutlineMenu /> : <GrClose />}
