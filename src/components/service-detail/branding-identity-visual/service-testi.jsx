@@ -33,12 +33,12 @@ const ServiceTesti = () => {
                     </div>
                 </div>
                 <div className="xl:w-[350px] xl:h-[258px] w-[435px] h-[320px] rounded-[20px] bg-white shadow-lg flex  flex-col items-center p-4">
-                    <div className="w-[330px] h-[108px] xl:w-[284px] xl:h-[80px] mt-4 rounded-[20px] p-4 bg-[#008FFF] flex flex-row items-center text-white">
-                        <img className="border-8 border-white rounded-full -ml-10 h-28 " src={serviceTestiProfil} alt="" />
+                    <div className="w-[280px] h-[108px] xl:w-[284px] xl:h-[80px] mt-4 rounded-[20px] p-4 bg-[#008FFF] flex flex-row items-center text-white ">
+                        <img className="border-8 border-white rounded-full lg:-ml-12 -ml-10 h-28" src={serviceTestiProfil} alt="" />
                         <div className="flex flex-col w-full pl-4 -mt-2">
                             <h1 className="text-[30px] xl:text-[25px] font-bold">John</h1>
                             <h2 className="text-[18px] xl:text-[14px] font-thin">CEO, XYZ Company</h2>
-                    </div>
+                        </div>
                     </div>
                     <div className="mt-6 p-2 text-[18px] xl:text-[16px]">
                         <p>Working with HiSocial was a game-changer for our brand. Their logo design and branding strategy catapulted our business to new heights.</p>
