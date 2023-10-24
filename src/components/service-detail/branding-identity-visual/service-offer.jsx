@@ -2,7 +2,7 @@ import { imgOffer } from "../../../assets/img"
 
 const ServiceOffer = () => {
     return (
-        <section className="mb-6 md:m-12 z-40 px-4">
+        <section className="mb-6 md:m-12 z-40 px-4 font-plus-jakarta-sans">
             <div className="mt-16 text-center max-w-[789px] mx-auto">
                 <h1 className="text-[38px] lg:text-[42px] font-bold text-[#004073]">What We <span className="text-[#008FFF]">Offer?</span></h1>
                 <p className="leading-loose mt-2 text-[16px] lg:text-[22px]">We Offer creative design solutions and build branding for our client companies including Logo, branding Strategy and Visual Identity.</p>

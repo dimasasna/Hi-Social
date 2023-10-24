@@ -1,6 +1,6 @@
 const ServicePrice = () => {
     return (
-        <section className="my-28 h-full max-w-[1230px] mx-auto">
+        <section className="my-28 h-full max-w-[1230px] mx-auto font-plus-jakarta-sans">
             <div className="h-full text-center max-w-full mx-auto my-8  px-4">
                 <h1 className=" text-[38px] md:text-[48px] font-bold">Design<span className="text-[#008FFF]"> Prices</span></h1>
                 <p className="px-2 leading-loose font-light mt-2 text-[20px] md:text-[22px]">Professional and best Logo and Branding Identity Service Packages at the lowest costs.</p>
@@ -32,10 +32,10 @@ const ServicePrice = () => {
                 <div className=" w-full h-[460px] mt-10 px-12 pt-12 hidden lg:table">
                     <div className="table-header-group mb-12">
                         <div className="table-row font-bold">
-                            <div className="table-cell text-left w-[500px] m-12 text-2xl">Benefits</div>
-                            <div className="table-cell text-center text-2xl">HiBronze</div>
-                            <div className="table-cell text-center text-2xl">HiSilver</div>
-                            <div className="table-cell text-center text-2xl">HiGold</div>
+                            <div className="table-cell text-left w-[500px] m-12 text-[28px]">Benefits</div>
+                            <div className="table-cell text-center text-[28px]">HiBronze</div>
+                            <div className="table-cell text-center text-[28px]">HiSilver</div>
+                            <div className="table-cell text-center text-[28px]">HiGold</div>
                         </div>
                     </div>
 
@@ -43,52 +43,52 @@ const ServicePrice = () => {
                     
                     <div className="table-row-group font-medium m-2">
                         <div className="table-row ">
-                            <div className="table-cell text-xl">Content Feed And Story</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl  text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Content Feed And Story</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl  text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
-                            <div className="table-cell text-xl">Reels & Tiktok Videos</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Reels & Tiktok Videos</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
-                            <div className="table-cell text-xl">Dashboard Content</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Dashboard Content</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
-                            <div className="table-cell text-xl">Copywriting & Hastag</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Copywriting & Hastag</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
-                            <div className="table-cell text-xl">Monthly Report & Consultation</div>
-                            <div className="table-cell text-center text-xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Monthly Report & Consultation</div>
+                            <div className="table-cell text-center text-2xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
-                            <div className="table-cell text-xl">Boost Marketing Advertisement</div>
-                            <div className="table-cell text-center text-xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Boost Marketing Advertisement</div>
+                            <div className="table-cell text-center text-2xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                         <div className="table-row">
-                            <div className="table-cell text-xl">Free Company Website / Personal</div>
-                            <div className="table-cell text-center text-xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                            <div className="table-cell text-2xl">Free Company Website / Personal</div>
+                            <div className="table-cell text-center text-2xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
-                        <div className="table-row">
-                            <div className="table-cell text-xl">Digital Marketing Learning Video</div>
-                            <div className="table-cell text-center text-xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
-                            <div className="table-cell text-center text-xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
+                        <div className="table-row ">
+                            <div className="table-cell text-2xl">Digital Marketing Learning Video</div>
+                            <div className="table-cell text-center text-2xl  text-[#008FFF] border-b-2 border-b-blue-100">30</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">60</div>
+                            <div className="table-cell text-center text-2xl text-[#008FFF] border-b-2 border-b-blue-100">90</div>
                         </div>
                     </div>
                 </div>

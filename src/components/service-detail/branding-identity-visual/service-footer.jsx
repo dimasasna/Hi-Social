@@ -4,7 +4,7 @@ import { logo1 } from "../../../assets/img"
 
 const ServiceFooter = () => {
     return (
-        <section className="px-4 mt-24 mb-12">
+        <section className="px-4 mt-24 mb-12 font-plus-jakarta-sans">
             <div className="w-full h-full  max-w-[1230px] mx-auto">
                 <div className="w-full bg-[#2563EB] text-white h-full rounded-[20px] pt-8 pb-12 flex flex-col items-center justify-center flex-wrap">
                     <h1 className="text-[32px] lg:text-[42px]  font-semibold text-center">Subscribe to our newslater</h1>

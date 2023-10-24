@@ -2,9 +2,9 @@ import { logoColaborate1, logoColaborate2, logoColaborate3, logoColaborate4 } fr
 
 const ServiceColaborate = () => {
     return (
-        <section className="bg-[#004073] h-full ">
+        <section className="bg-[#004073] h-full font-plus-jakarta-sans px-3">
             <div className="text-white text-center w-full">
-                <h1 className="pt-14 pb-10 text-[18px] lg:text-[22px] font-light">We Have Collaborated With Companies And Educational Agencies.</h1>
+                <h1 className=" pt-14 pb-10 text-[18px] lg:text-[22px] font-light">We Have Collaborated With Companies And Educational Agencies.</h1>
             </div>
             <div className="container mx-auto pb-12">
                 <div className="flex flex-row max-w-[1230px] justify-center items-center mx-auto gap-16 flex-wrap">

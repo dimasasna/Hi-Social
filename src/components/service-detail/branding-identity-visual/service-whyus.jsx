@@ -3,7 +3,7 @@ import { profilUs } from "../../../assets/img"
 const ServiceUs = () => {
     return (
         <section className="mt-24 lg:m-5 px-4">
-            <div className="mx-auto max-w-[1230px] rounded-xl bg-[#008FFF] pb-4">
+            <div className="mx-auto max-w-[1230px] rounded-xl bg-[#008FFF] pb-4 font-plus-jakarta-sans">
                 <div className="text-white h-52 text-center max-w-[789px] mx-auto p-6">
                     <h1 className="pt-5 lg:pt-12 text-[32px] lg:text-[42px] font-bold">Why<span className="text-[#EDC700]"> Work With Us?</span></h1>
                     <p className="leading-loose font-light mt-2 text-[18px] lg:text-[20px]">We have collaborated with various successful businessmen in building branding with our professionals.</p>
@@ -27,14 +27,14 @@ const ServiceUs = () => {
                     </div>
                 </div>
 
-                <div className="h-full max-w-[350px] lg:max-w-[580px] sm:max-w-[450px] rounded-[20px] bg-white  mb-12 shadow-2xl  flex mx-auto">
+                <div className="h-full max-w-[320px] lg:max-w-[580px] sm:max-w-[450px] rounded-[20px] bg-white  mb-12 shadow-2xl  flex mx-auto ">
                     <div className="grid grid-cols-3  gap-2">
                         <div className="flex items-center justify-center col-span-2 m-4 border-r-2 pr-2">
                             <img className="" src={profilUs} alt="" />
                         </div>
                         <div className="text-center mr-4 mt-2">
                             <h1 className="text-[36px]  lg:text-[50px] font-bold text-[#008FFF]">50+</h1>
-                            <p className="font-semibold pb-4 text-[12px] sm:text-[16px]">Meet Our Profesional</p>
+                            <p className="font-semibold pb-4 text-[14px] sm:text-[16px]">Meet Our Profesional</p>
                         </div>
                     </div>
                 </div>

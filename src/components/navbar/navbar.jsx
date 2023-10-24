@@ -17,46 +17,46 @@ const Navbar = ({ id, en }) => {
     <div className="flex justify-between lg:justify-around py-3 shadow-xl items-center fixed w-full top-0 bg-white z-[999999] font-plus-jakarta-sans">
       <div className="h-full w-full flex justify-between max-w-[1360px] mx-auto lg:pr-7">
         <img src={logo} className="cursor-pointer ms-4 lg:ms-16" />
-        <div className="me-10 text-2xl border-2 border-black p-1 rounded hover:bg-gray-300 lg:opacity-0 cursor-pointer" onClick={() => handleOpen()}>
+        <div className="me-7 text-2xl border-2 border-black py-3.5 px-2 rounded hover:bg-gray-300 lg:opacity-0 cursor-pointer" onClick={() => handleOpen()}>
           {open === false ? <AiOutlineMenu /> : <GrClose />}
         </div>
         <div
           className={
             !open
               ? "flex flex-col absolute top-20  py-2 ps-4 w-full shadow-lg transition duration-700 opacity-0 lg:flex-row lg:opacity-100 lg:top-0 lg:static lg:w-auto lg:shadow-none"
-              : "flex flex-col absolute top-20  py-2 ps-4 w-full shadow-lg transition duration-700 bg-white"
+              : "flex flex-col absolute top-20  py-4 ps-4 w-full shadow-lg transition duration-700 bg-white"
           }
         >
           <ul className="flex flex-col cursor-pointer lg:flex-row lg:space-x-8 lg:w-auto lg:items-center lg:me-10">
-            <li className=" hover:text-gray-400">
+            <li className=" hover:text-gray-400 py-2 border-b-2 lg:border-none lg:py-0">
               <Link to="/" onClick={() => (window.location.href = "#top")}>
                 Home
               </Link>
             </li>
-            <li className=" hover:text-gray-400">
+            <li className=" hover:text-gray-400 py-2 border-b-2 lg:border-none lg:py-0">
               <Link to="service" onClick={() => (window.location.href = "#top")}>
                 Service
               </Link>
             </li>
-            <li className=" hover:text-gray-400 group">
+            <li className=" hover:text-gray-400 group py-2 border-b-2 lg:border-none lg:py-0">
               <span className="lg:px-1">Portofolio</span>
               <div className="hidden group-hover:block">
                 <DropdownPorto />
               </div>
             </li>
-            <li className=" hover:text-gray-400">
+            <li className=" hover:text-gray-400 py-2 border-b-2 lg:border-none lg:py-0">
               <Link to="about-us" onClick={() => (window.location.href = "#top")}>
                 About Us
               </Link>
             </li>
-            <li className="hover:text-gray-400 group">
+            <li className="hover:text-gray-400 group py-2 border-b-2 lg:border-none lg:py-0">
               <span className="lg:px-1">{selecLang === "id" ? "ID" : "ENG"}</span>
               <div className="hidden group-hover:block">
                 <DropdownLang id={id} en={en} />
               </div>
             </li>
           </ul>
-          <button type="button" className="w-32 btn-blue rounded-full text-sm mt-1 lg:text-base lg:mt-auto lg:mx-10 lg:w-auto ">
+          <button type="button" className="w-32 btn-blue rounded-full text-sm mt-3 lg:text-base lg:mt-auto lg:mx-10 lg:w-auto ">
             Contact Us
           </button>
         </div>
