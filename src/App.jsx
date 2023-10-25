@@ -2,6 +2,7 @@ import { Home, Service, AboutUs, ServiceDetail } from "./pages/index";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/navbar/navbar";
 import { useTranslation } from "react-i18next";
+import WebsiteService from "./pages/service-detail/website-service";
 
 function App() {
   const { t, i18n } = useTranslation();
@@ -24,6 +25,7 @@ function App() {
           <Route path="/service" element={<Service t={t} />} />
           <Route path="/about-us" element={<AboutUs t={t} />} />
           <Route path="/service-detail" element={<ServiceDetail t={t} />} />
+          <Route path="/website-service" element={<WebsiteService t={t} />} />
         </Routes>
       </Router>
     </div>

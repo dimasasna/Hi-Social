@@ -44,6 +44,14 @@ import serviceTestiProfil from "./testi-profil.png"
 import bgServiceFooter from "./BG.png"
 import logoOnly from "./HiSocial.png"
 import logo1 from "./logo1.png"
+import bgBannerWebsiteService from "./bg-banner-websiteservice.png"
+import iconsOffer from "./icon-offer.svg"
+import websiteOffer1 from "./website-offer1.png"
+import websiteOffer2 from "./website-offer2.png"
+import websiteOffer3 from "./website-offer3.png"
+import websiteOffer4 from "./website-offer4.png"
+import websiteOffer5 from "./website-offer5.png"
+import websiteWhyUs from "./website-whyus.png"
 
 export {
   logo,
@@ -91,5 +99,13 @@ export {
   serviceTestiProfil,
   bgServiceFooter,
   logoOnly,
-  logo1
+  logo1,
+  bgBannerWebsiteService,
+  iconsOffer,
+  websiteOffer1,
+  websiteOffer2,
+  websiteOffer3,
+  websiteOffer4,
+  websiteOffer5,
+  websiteWhyUs
 };

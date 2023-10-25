@@ -1,4 +1,4 @@
-import { BannerServiceDetail, ServiceColaborate, ServiceFooter, ServiceOffer,  ServicePrice,  ServiceProject,  ServiceTesti,  ServiceTransform,  ServiceUs } from "../../components/service-detail/branding-identity-visual";
+import { BannerServiceDetail, ServiceColaborate, ServiceFooter, ServiceOffer,  ServicePrice,  ServiceProject,  ServiceTesti,  ServiceTransform,  ServiceUs } from "../../../components/service-detail";
 const ServiceDetail = ({t}) => {
     return (
         
