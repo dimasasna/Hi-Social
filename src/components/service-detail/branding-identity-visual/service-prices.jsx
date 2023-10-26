@@ -10,19 +10,19 @@ const ServicePrice = () => {
                 <div className="flex flex-row flex-wrap justify-center">
                     <div className="h-[371px] md:w-[400px] w-[600px] rounded-b-[20px]text-center items-center justify-center flex flex-col p-12">
                         <h1 className="text-[32px] font-bold text-[#008FFF]">HiBronze</h1>
-                        <h2 className="text-[36px] font-bold">IDR 1.500.000</h2>
+                        <h2 className="text-[36px] font-bold text-center">IDR 1.500.000</h2>
                         <p className="text-[16px] mb-8">/ Month</p>
                         <button className=" m-2 w-full btn-white border border-blue-500  shadow-3xl rounded-full text-[#008FFF] shadow-blue-400 ">Get Started Now</button>
                     </div>
                     <div className="h-[371px] md:w-[400px] w-[600px] rounded-b-[20px] bg-[#008FFF] text-center items-center justify-center flex flex-col p-12 text-white">
                         <h1 className="text-[32px] font-bold ">HiSilver</h1>
-                        <h2 className="text-[36px] font-bold">IDR 1.500.000</h2>
+                        <h2 className="text-[36px] font-bold text-center">IDR 1.500.000</h2>
                         <p className="text-[16px] mb-8">/ Month</p>
                         <button className=" m-2 w-full btn-white bg-[#EDC700]  shadow-3xl rounded-full text-black shadow-blue-400 ">Get Started Now</button>
                     </div>
                     <div className="h-[371px] md:w-[400px] w-[600px] rounded-b-[20px]text-center items-center justify-center flex flex-col p-12">
                         <h1 className="text-[32px] font-bold text-[#008FFF]">HiGold</h1>
-                        <h2 className="text-[36px] font-bold">IDR 1.500.000</h2>
+                        <h2 className="text-[36px] font-bold text-center">IDR 1.500.000</h2>
                         <p className="text-[16px] mb-8">/ Month</p>
                         <button className=" m-2 w-full btn-white border border-blue-500  shadow-3xl rounded-full text-[#008FFF] shadow-blue-400 ">Get Started Now</button>
                     </div>

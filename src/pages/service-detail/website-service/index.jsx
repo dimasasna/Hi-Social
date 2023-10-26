@@ -1,5 +1,5 @@
 
-import { ServiceColaborate, ServiceFooter, ServicePrice, WebsiteProject, WebsiteServiceBanner, WebsiteServiceOffer, WhyUs } from "../../../components/service-detail";
+import { ServiceColaborate, ServiceFooter, ServicePrice, SliderTesti, WebsiteProject, WebsiteServiceBanner, WebsiteServiceOffer, WhyUs } from "../../../components/service-detail";
 const WebsiteService = () => {
     return (
 
@@ -10,6 +10,7 @@ const WebsiteService = () => {
             <WhyUs />
             <WebsiteProject />
             <ServicePrice />
+            <SliderTesti/>
             <ServiceFooter />
         </section>
     );

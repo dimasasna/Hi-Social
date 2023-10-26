@@ -11,4 +11,5 @@ import WebsiteServiceBanner from "./website-service/website-service-banner";
 import WebsiteServiceOffer from "./website-service/website-offer";
 import WebsiteProject from "./website-service/website-project";
 import WhyUs from "./website-service/website-whyus"
-export { BannerServiceDetail, ServiceColaborate, ServiceOffer, ServiceUs, ServiceProject, ServiceTesti, ServiceTransform, ServiceFooter, ServicePrice, WebsiteServiceBanner, WebsiteServiceOffer, WebsiteProject, WhyUs }
+import SliderTesti from "./website-service/slider-testi";
+export { BannerServiceDetail, ServiceColaborate, ServiceOffer, ServiceUs, ServiceProject, ServiceTesti, ServiceTransform, ServiceFooter, ServicePrice, WebsiteServiceBanner, WebsiteServiceOffer, WebsiteProject, WhyUs, SliderTesti }

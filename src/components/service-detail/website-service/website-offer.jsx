@@ -5,7 +5,7 @@ const WebsiteServiceOffer = () => {
                 <h1>What We Offers?</h1>
             </div>
             <div className="max-w-[1230px] mx-auto h-full flex flex-row  mt-10 flex-wrap lg:justify-between justify-center gap-8 lg:gap-0 p-6 lg:p-0 ">
-                <div className="w-[360px] h-[409px]  rounded-[20px] shadow-2xl relative">
+                <div className="w-[390px] h-[409px]  rounded-[20px] shadow-2xl relative">
                     <div className="h-[117px] w-full bg-[#008FFF] rounded-t-[20px] text-white p-6">
                         <h1>Icons</h1>
                         <h2 className="font-bold text-[25px] mt-3">Website Development</h2>
@@ -17,7 +17,7 @@ const WebsiteServiceOffer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="w-[360px] h-[409px]  rounded-[20px] shadow-2xl relative">
+                <div className="w-[390px] h-[409px]  rounded-[20px] shadow-2xl relative">
                     <div className="h-[117px] w-full bg-[#008FFF] rounded-t-[20px] text-white p-6">
                         <h1>Icons</h1>
                         <h2 className="font-bold text-[25px] mt-3">System & Integration</h2>
@@ -29,7 +29,7 @@ const WebsiteServiceOffer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="w-[360px] h-[409px]  rounded-[20px] shadow-2xl relative">
+                <div className="w-[390px] h-[409px]  rounded-[20px] shadow-2xl relative">
                     <div className="h-[117px] w-full bg-[#008FFF] rounded-t-[20px] text-white p-6">
                         <h1>Icons</h1>
                         <h2 className="font-bold text-[25px] mt-3">Maintenance & Support</h2>

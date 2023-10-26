@@ -52,6 +52,8 @@ import websiteOffer3 from "./website-offer3.png"
 import websiteOffer4 from "./website-offer4.png"
 import websiteOffer5 from "./website-offer5.png"
 import websiteWhyUs from "./website-whyus.png"
+import bgTesti from "./bg-testi.png"
+import pagination from "./pagination.png"
 
 export {
   logo,
@@ -107,5 +109,7 @@ export {
   websiteOffer3,
   websiteOffer4,
   websiteOffer5,
-  websiteWhyUs
+  websiteWhyUs,
+  bgTesti,
+  pagination
 };
